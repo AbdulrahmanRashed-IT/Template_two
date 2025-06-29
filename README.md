@@ -18,21 +18,8 @@ Subscription Form – Ready-made email input form
 Clean Code Structure – Easy to modify and extend
 
 📁 Folder Structure
-php
-Copy
-Edit
-project-root/
-│
-├── index.html
-├── CSS/
-│   ├── karzer.css        # Main stylesheet
-│   └── normalize.css     # Normalize default browser styles
-├── Images/
-│   ├── kazper-logo.png
-│   ├── phone-web.png
-│   ├── *.jpeg / *.webp / *.avif / *.png
-│   └── video.mp4         # Demo video
-└── Fonts and icons loaded from CDNs
+![image](https://github.com/user-attachments/assets/a497b4cb-b5f9-4ee1-958e-94cbeef08a90)
+
 🛠️ How to Use
 Clone or download the project.
 
